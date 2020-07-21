@@ -3,7 +3,7 @@
 #
 
 #<ip-address>	<hostname.domain.org>	<hostname>
-127.0.0.1 localhost localhost.localdomain localhost4 localhost4.localdomain4 VicyosLinux
-::1 localhost localhost.localdomain localhost6 localhost6.localdomain6 VicyosLinux
+127.0.0.1 localhost localhost.localdomain localhost4 localhost4.localdomain4 PywEos
+::1 localhost localhost.localdomain localhost6 localhost6.localdomain6 PywEos
 
 # End of file

@@ -338,8 +338,8 @@ clear && neofetch
 
 ############ My Personal Build Stuff ############
 
-#export KBUILD_BUILD_USER="Vicyos"
-#export KBUILD_BUILD_HOST="Vicyos"
+#export KBUILD_BUILD_USER="PywEos"
+#export KBUILD_BUILD_HOST="PywEos"
 #export SELINUX_IGNORE_NEVERALLOWS=true
 #export CUSTOM_BUILD_TYPE=OFFICIAL
 #export OPENGAPPS_TYPE=ALPHA
