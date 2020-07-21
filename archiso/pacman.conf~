@@ -116,6 +116,10 @@ Include = /etc/pacman.d/arcolinux-mirrorlist
 SigLevel = Required DatabaseOptional
 Include = /etc/pacman.d/arcolinux-mirrorlist
 
-[pyweos-repo]
+[arcolinux_repo_iso]
+SigLevel = Required DatabaseOptional
+Include = /etc/pacman.d/arcolinux-mirrorlist
+
+[vicyos-repo]
 SigLevel = Optional TrustedOnly
-Server = https://gladaikins.github.io/$repo/$arch
+Server = https://felipendc.github.io/$repo/$arch

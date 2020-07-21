@@ -2,11 +2,11 @@
 
 set -e -u
 
-iso_name=PywEos
-iso_label="PywEos-v1.0.0"
-iso_publisher="PywE <https://www.pywe.org>"
-iso_application="PywEos Live/Rescue CD"
-iso_version="v1.0.0"
+iso_name=VicyosLinux
+iso_label="VicyosLinux-v20.7.13"
+iso_publisher="VicyosLinux <https://github.com/felipendc>"
+iso_application="VicyosLinux Live/Rescue CD"
+iso_version="v20.7.13"
 install_dir=arch
 work_dir=work
 out_dir=out
