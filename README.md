@@ -1,6 +1,6 @@
-# vicyos-iso
+# pyweos-iso
 
-With this github you can build your own Vicyos-iso version.
+iso build files fo pyweos.
 
 # stable
 
